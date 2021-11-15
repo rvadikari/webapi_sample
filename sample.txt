@@ -1,1 +1,2 @@
 This is sample file to be added to git
+This is for the feature branch
