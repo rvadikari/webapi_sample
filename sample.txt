@@ -1,1 +1,3 @@
 This is sample file to be added to git
+This is for the feature brancha
+This is from feature1
